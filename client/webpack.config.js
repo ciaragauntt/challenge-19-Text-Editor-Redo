@@ -36,7 +36,7 @@ module.exports = () => {
         short_name: 'JATE',
         description: 'We love an editor!',
         background_color: '#225ca3',
-        theme_color: '#225cs3',
+        theme_color: '#225ca3',
         start_url: '/',
         publicPath: '/',
         icons: [
